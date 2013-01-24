@@ -1,7 +1,7 @@
 cbxml
 =====
 
-http://www.cbxml.com
+http://www.cbxml.com <br/>
 Automatic products generator xml file for blogger,wordpress
 
 
