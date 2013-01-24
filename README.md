@@ -18,3 +18,7 @@ Features
 <li>Generate xml for Wordpress self sites (support wordpress.com).</li>
 <li>Generate xml for Blogger (comming soon)</li>
 </ul>
+
+<strong>Powered by KOKARAT</strong><br/>
+KOKARAT.ME<br/>
+http://www.facebook.com/KokaratScripts
