@@ -20,5 +20,5 @@ Features
 </ul>
 
 <strong>Powered by KOKARAT</strong><br/>
-KOKARAT.ME<br/>
+http://www.kokarat.me<br/>
 http://www.facebook.com/KokaratScripts
